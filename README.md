@@ -12,20 +12,20 @@ Excelで以下の作業が簡単になります。
 - DML文の作成
 - 記述したレコードの確認
 
-本ソフトをインストールすることで、  
-Excelの「データ」のリボンに「クエリ太郎」というグループが作成されます。  
+本ソフトをインストールすることで、
+Excelの「データ」のリボンに「クエリ太郎」というグループが作成されます。
 そこから使いたい機能をクリックするだけで実行できます。
 
 # 2. Demo
 アニメGIFを貼付けて実際の動作例を見せます。
 
 ## 2.1. DMLのテンプレートの作成
-![DMLテンプレートの作成.gif](.\movie\DMLテンプレートの作成.gif)
+![DMLテンプレートの作成.gif](https://github.com/ta-kon/SQL-ExcelAddin/blob/master/movie/DML%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AE%E4%BD%9C%E6%88%90.gif?raw=true)
 
 ## 2.2. クエリの作成
-![DML文の作成.gif](.\movie\DML文の作成.gif)
+![DML文の作成.gif](https://github.com/ta-kon/SQL-ExcelAddin/blob/master/movie/DML%E6%96%87%E3%81%AE%E4%BD%9C%E6%88%90.gif?raw=true)
 
-# 3. VS. 
+# 3. VS.
 面倒なレコードのDMLの作成が
 本アドインが代わりに行ってくれます。
 
@@ -50,18 +50,18 @@ Excelの「データ」のリボンに「クエリ太郎」というグループ
 
 
 # 5. Requirement
-以下の環境で動作確認をしております。  
+以下の環境で動作確認をしております。
 * Excel 2010
 
 ※ Windows版Excelのみ動作確認済み
 
 # 6. Install
 
-1. 以下の場所から「Source code (zip)」をダウンロード  
+1. 以下の場所から「Source code (zip)」をダウンロード
 https://github.com/ta-kon/Numbering-ExcelAddin/releases
 
 2. ダウンロードしたzipファイルを展開し、
-展開したフォルダ内にある  
+展開したフォルダ内にある
 Install.vbs を実行
 
 Excelのリボンに「連番太郎」が追加されます。
@@ -74,16 +74,16 @@ Uninstall.vbs を実行
 
 # 8. Thanks
 
-以下のサイトを参考にしました。  
+以下のサイトを参考にしました。
 
-[ある SE のつぶやき - VBScript で Excel にアドインを自動でインストール/アンインストールする方法](http://fnya.cocolog-nifty.com/blog/2014/03/vbscript-excel-.html)  
-Install.vbs / Uninstall.vbs に使用しております。  
+[ある SE のつぶやき - VBScript で Excel にアドインを自動でインストール/アンインストールする方法](http://fnya.cocolog-nifty.com/blog/2014/03/vbscript-excel-.html)
+Install.vbs / Uninstall.vbs に使用しております。
 
 # 9. Licence
-本プログラムはフリーソフトウェアです。  
-個人・法人に限らず利用者は自由に使用および配布することができます。  
+本プログラムはフリーソフトウェアです。
+個人・法人に限らず利用者は自由に使用および配布することができます。
 
-本プログラムは無償で利用できますが、  
-作者は本プログラムの使用にあたり生じる障害や問題に対して一切の責任を負いません。  
+本プログラムは無償で利用できますが、
+作者は本プログラムの使用にあたり生じる障害や問題に対して一切の責任を負いません。
 
 ソースを利用する場合にはMITライセンスです。

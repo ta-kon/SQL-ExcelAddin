@@ -64,7 +64,7 @@ https://github.com/ta-kon/Numbering-ExcelAddin/releases
 展開したフォルダ内にある
 Install.vbs を実行
 
-Excelのリボンに「連番太郎」が追加されます。
+Excelの「データ」のリボンタブに「クエリ太郎」が追加されます。
 
 # 7. Uninstall
 アンインストール方法
@@ -76,7 +76,7 @@ Uninstall.vbs を実行
 
 以下のサイトを参考にしました。
 
-[ある SE のつぶやき - VBScript で Excel にアドインを自動でインストール/アンインストールする方法](http://fnya.cocolog-nifty.com/blog/2014/03/vbscript-excel-.html)  
+[ある SE のつぶやき - VBScript で Excel にアドインを自動でインストール/アンインストールする方法](http://fnya.cocolog-nifty.com/blog/2014/03/vbscript-excel-.html)
 Install.vbs / Uninstall.vbs に使用しております。
 
 # 9. Licence

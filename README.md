@@ -58,7 +58,7 @@ Excelの「データ」のリボンに「クエリ太郎」というグループ
 # 6. Install
 
 1. 以下の場所から「Source code (zip)」をダウンロード
-https://github.com/ta-kon/Numbering-ExcelAddin/releases
+https://github.com/ta-kon/SQL-ExcelAddin/releases
 
 2. ダウンロードしたzipファイルを展開し、
 展開したフォルダ内にある
@@ -77,6 +77,7 @@ Uninstall.vbs を実行
 以下のサイトを参考にしました。
 
 [ある SE のつぶやき - VBScript で Excel にアドインを自動でインストール/アンインストールする方法](http://fnya.cocolog-nifty.com/blog/2014/03/vbscript-excel-.html)
+
 Install.vbs / Uninstall.vbs に使用しております。
 
 # 9. Licence
